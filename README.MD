@@ -47,9 +47,11 @@
 ```allure serve allure-results```
 
 Ниже представлен пример Allure отчёта:
+
 <img src="images/screenshots/allure_report_example.png" alt="Allure Report" width="600">
 
-Видео прохождения теста: 
+Видео прохождения теста:
+
 <img src="images/screenshots/allure_video_report.gif" alt="Allure Report" width="600">
 
 Подробные инструкции по работе с Allure можно найти по [ссылке](https://allurereport.org/docs/).
