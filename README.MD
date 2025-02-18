@@ -57,8 +57,16 @@
 Подробные инструкции по работе с Allure можно найти по [ссылке](https://allurereport.org/docs/).
 
 
-### В проекте реализована интеграция с Allure TestOps
-<img src="images/screenshots/allure_test_ops.png" alt="Allure TestOps" width="600">
+### В проекте реализована интеграция с Allure TestOps и Atlassian Jira
+Интеграция с Allure TestOps:
+<img src="images/screenshots/allure_test_ops_1.png" alt="Allure TestOps" width="600">
+<img src="images/screenshots/allure_test_ops_2.png" alt="Allure TestOps" width="600">
+
+Интеграция с Atlassian Jira:
+<img src="images/screenshots/atlassian_jira_1.png" alt="Allure TestOps" width="600">
+<img src="images/screenshots/atlassian_jira_2.png" alt="Allure TestOps" width="600">
+
+
 
 ### В проекте настроена отправка краткого отчёта в Telegram
 <img src="images/screenshots/allure_tg_report.png" alt="Telegram Allure Report" width="600">
